@@ -1,44 +1,44 @@
-#1. Basic String Output
+#1.
 print("Hello, World!")
-#2. Simple Math Inside Print
+#2. 
 print(5 + 3)
-#3. Multiple Arguments in Print
+#3. 
 print("Python", "is", "fun!")
-#4. Print with Escape Characters
+#4. 
 print("She said, \"Hello!\"")
-#5. Newline Character
+#5.
 print("First line\nSecond line")
-#6. Tab Character
+#6.
 print("Item 1\tItem 2\tItem 3")
-#7. Print Multiple Data Types Together
+#7.
 print("The result is", 42)
-#8. Print a Single Number
+#8.
 print(12345)
-#9. Print a Decimal Number
+#9. 
 print(3.14159)
-#10. Print Special Characters
+#10. 
 print("Dollar sign: $")
-#11. Using the sep Parameter
+#11. 
 print("apple", "banana", "cherry", sep=", ")
-#12. Using the end Parameter
+#12.
 print("Hello,", end=" ")
 print("World!")
-#13. Print a Repeated String
+#13. 
 print("Python! " * 3)
-#14. Print a Unicode Character
+#14. 
 print("\u2764") # Prints a heart symbol
 
-#15. Print Empty Line
+#15. 
 print()
-#16. Concatenating Strings Inside Print
+#16.
 print("Hello " + "World!")
-#17. Print Boolean Values
+#17. 
 print(True)
 print(False)
-#18. Printing Exponential Notation
+#18. 
 print(1.2e3) # Prints 1200.0
-#19. Print Multiline Text Using Triple Quotes
+#19. 
 print("""This is a multiline
 print statement.""")
-#20. Print Using Escaped Backslash
+#20.
 print("This is a backslash: \\")
